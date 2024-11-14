@@ -1,4 +1,3 @@
-
 <div style="flex: 1; text-align: left;">
   <h3>✨&nbsp; About Me</h3>
   <ul>
