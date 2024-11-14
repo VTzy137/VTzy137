@@ -5,6 +5,6 @@
   <div>
    <img src="https://github-readme-stats.vercel.app/api?username=VTsuyyy&theme=tokyonight&show_icons=true" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=VTsuyyy" />
   <div/> 
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=VTsuyyy"/>
 </p>
