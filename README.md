@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://anuraghazra.github.io"><img width="50%" alt="Hello, I'm Truong!" src="./images/SOMEDIA(1).png" /></a>
+  <a href="https://anuraghazra.github.io"><img width="50%" alt="Hello, I'm Truong!" src="./images/2024-11-14_23-04.png" /></a>
 </p>
 
 ### ✨&nbsp; About Me
