@@ -2,14 +2,14 @@
   <div style="flex: 1; text-align: left;">
     <h3>✨&nbsp; About Me</h3>
     <ul>
-      <li>🔭 &nbsp;Now I'm learning about backend, ecommerce, data, and genetic algorithms :wink;</li>
+      <li>🔭 &nbsp;Backend, ecommerce, data, PSO&EA</li>
       <li>🏫 &nbsp;Computer science student at <a href="https://hust.edu.vn">HUST</a></li>
       <li>💼 &nbsp;Intern at <a href="https://ownego.com">Ownego</a></li>
       <li>💗 🌻 🏃 🎨</li>
     </ul>
   </div>
   <div style="flex: 1; text-align: center;">
-    <a href="https://anuraghazra.github.io">
+    <a href="https://about.me/vtzy">
       <img width="25%" alt="Hello, I'm Truong!" src="./images/2024-11-14_23-04.png" style="border-radius: 7px;" />
     </a>
   </div>
