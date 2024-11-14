@@ -1,15 +1,19 @@
-<p align="center">
-  <a href="https://anuraghazra.github.io">
-    <img width="30%" alt="Hello, I'm Truong!" src="./images/2024-11-14_23-04.png" style="border-radius: 10px;" />
-  </a>
-</p>
-
-### ✨&nbsp; About Me
-
-* 🔭 &nbsp;Now i'm learn about backend, ecommerce, data and genetic agorithm :wink:
-* 🏫 &nbsp;Computer science student at [HUST](https://hust.edu.vn)
-* 💼 &nbsp;Intern at [Ownego](https://ownego.com)
-* &nbsp;💗 🌻 🏃 ️🎨
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; text-align: left;">
+    <h3>✨&nbsp; About Me</h3>
+    <ul>
+      <li>🔭 &nbsp;Now I'm learning about backend, ecommerce, data, and genetic algorithms :wink;</li>
+      <li>🏫 &nbsp;Computer science student at <a href="https://hust.edu.vn">HUST</a></li>
+      <li>💼 &nbsp;Intern at <a href="https://ownego.com">Ownego</a></li>
+      <li>💗 🌻 🏃 🎨</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <a href="https://anuraghazra.github.io">
+      <img width="25%" alt="Hello, I'm Truong!" src="./images/2024-11-14_23-04.png" style="border-radius: 7px;" />
+    </a>
+  </div>
+</div>
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=VTsuyyy&theme=tokyonight&show_icons=true" height="195" />
