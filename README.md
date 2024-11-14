@@ -5,6 +5,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VTsuyyy&theme=tokyonight&show_icons=true"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=VTsuyyy&theme=tokyonight"/>
-  <br>
-  
 </p>
