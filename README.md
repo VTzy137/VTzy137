@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: left;">
     <h3>✨&nbsp; About Me</h3>
     <ul>
@@ -7,8 +7,6 @@
       <li>💼 &nbsp;Intern at <a href="https://ownego.com">Ownego</a></li>
       <li>💗 🌻 🏃 🎨</li>
     </ul>
-  </div>
-  <div style="flex: 1; text-align: center;">
     <a href="https://about.me/vtzy">
       <img width="25%" alt="Hello, I'm Truong!" src="./images/2024-11-14_23-04.png" style="border-radius: 7px;" />
     </a>
