@@ -12,10 +12,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VTsuyyy&theme=tokyonight"/>
 </p>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=VTsuyyy&theme=tokyonight&show_icons=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTsuyyy&theme=tokyonight&layout=compact" height="195" />
-</div>
+<p align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VTsuyyy&theme=tokyonight&show_icons=true" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTsuyyy&theme=tokyonight&layout=compact" height="195" />
+  </div>
+</p>
+
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula"/>
 </p>
