@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VTsuyyy&theme=tokyonight&show_icons=true" height="195" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTsuyyy&theme=tokyonight&layout=compact" height="195" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=VTsuyyy&theme=tokyonight&show_icons=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTsuyyy&theme=tokyonight&layout=compact" height="195" />
 </p>
 <div style="flex: 1; text-align: left;">
   <h3>✨&nbsp; About Me</h3>
