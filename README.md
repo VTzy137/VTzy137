@@ -17,6 +17,6 @@
     <li>💗 🌻 🏃 🎨</li>
   </ul>
 </div>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula"/>
-</p>
+</p> -->
