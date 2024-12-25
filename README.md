@@ -14,7 +14,7 @@
     <li>🔭 &nbsp;Data Engineer, 📖 Evolution Agorithm</li>
     <li>🏫 &nbsp;Computer science student at <a href="https://hust.edu.vn">HUST</a></li>
     <li>💼 &nbsp;Intern at <a href="https://ownego.com">Ownego</a></li>
-    <li>💗 🌻 🏃 🎨</li>
+    <li>💗 🏃 🎨</li>
   </ul>
 </div>
 <!-- <p align="center">
