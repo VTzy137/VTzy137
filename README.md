@@ -11,10 +11,11 @@
 <div style="flex: 1; text-align: left;">
   <h3>✨&nbsp; About Me</h3>
   <ul>
-    <li>🔭 &nbsp;Data Engineer, 📖 Evolution Agorithm</li>
+    <li>🔭 &nbsp;Data Engineer, 📖 Evolution Agorithm, <a href="https://leetcode.com/u/VTzy137">LeetCode</a></li>
     <li>🏫 &nbsp;Computer science student at <a href="https://hust.edu.vn">HUST</a></li>
     <li>💼 &nbsp;Intern at <a href="https://ownego.com">Ownego</a></li>
     <li>💗 🏃 🎨</li>
+    
   </ul>
 </div>
 <!-- <p align="center">
