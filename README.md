@@ -15,11 +15,11 @@
     <li>🔭 &nbsp;Data Engineer, 📖 Evolution Agorithm, <a href="https://leetcode.com/u/VTzy137">LeetCode</a></li>
     <li>🏫 &nbsp;Computer science student at <a href="https://hust.edu.vn">HUST</a></li>
 <!--     <li>💼 &nbsp;Intern at <a href="https://ownego.com">Ownego</a></li> -->
-    <li>💗 🏃 🎨</li>
     <li> 
       
   📫 Contact **nguyenvantruong1372003@gmail.com** 
     </li>
+    <li>💗 🏃 🎨</li>
   </ul>
 </div>
 
