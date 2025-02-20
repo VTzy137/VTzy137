@@ -16,9 +16,10 @@
     <li>🏫 &nbsp;Computer science student at <a href="https://hust.edu.vn">HUST</a></li>
 <!--     <li>💼 &nbsp;Intern at <a href="https://ownego.com">Ownego</a></li> -->
     <li>💗 🏃 🎨</li>
-  
-- 📫 Contact **nguyenvantruong1372003@gmail.com** 
-
+    <li> 
+      
+  📫 Contact **nguyenvantruong1372003@gmail.com** 
+    </li>
   </ul>
 </div>
 
