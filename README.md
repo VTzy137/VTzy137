@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VTzy137&theme=tokyonight&show_icons=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTzy137&theme=tokyonight&layout=compact" height="195" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTzy137&theme=tokyonight&layout=compact" height="195" /> -->
 </p>
 <div style="flex: 1; text-align: left;">
   <h3>✨&nbsp; About Me</h3>
