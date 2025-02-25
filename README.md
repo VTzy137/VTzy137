@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VTzy137&theme=tokyonight&show_icons=true" height="195" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTzy137&theme=tokyonight&layout=compact" height="195" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTzy137&theme=tokyonight&layout=compact" height="195" />
 </p>
 
 <div style="flex: 1; text-align: left;">
@@ -14,11 +14,6 @@
   <ul>
     <li>🔭 &nbsp;Data Engineer, 📖 Evolution Agorithm, <a href="https://leetcode.com/u/VTzy137">LeetCode</a></li>
     <li>🏫 &nbsp;Computer science student at <a href="https://hust.edu.vn">HUST</a></li>
-<!--     <li>💼 &nbsp;Intern at <a href="https://ownego.com">Ownego</a></li> -->
-    <li> 
-      
-  📫 Contact **nguyenvantruong1372003@gmail.com** 
-    </li>
     <li>💗 🏃 🎨</li>
   </ul>
 </div>
