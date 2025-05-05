@@ -32,7 +32,7 @@
       <li>💗 🏃 🎨</li>
     </ul>
   </div>
-  <img src="./terminal.gif" alt="Terminal GIF" height="120" />
+  <!-- <img src="./terminal.gif" alt="Terminal GIF" height="120" /> -->
 </div>
 
 <br/>
