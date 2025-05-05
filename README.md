@@ -15,7 +15,7 @@
   </svg>
 </p> -->
 
-<p align="center">
+<p align="center" >
   <img src="https://raw.githubusercontent.com/VTzy137/VTzy137/master/banner.svg" alt="ImTruong" />
 </p>
 
