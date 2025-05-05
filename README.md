@@ -16,7 +16,7 @@
 </p> -->
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/VTzy137/VTzy137/master/banner.svg" alt="ImTruong" />
+  <img src="https://raw.githubusercontent.com/VTzy137/VTzy137/master/banner.svg" alt="ImTruong" width="300" height="100"/>
 </p>
 
 
