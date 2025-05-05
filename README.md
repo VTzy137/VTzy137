@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=VTzy137&color=3e006b" alt="VTzy137" />
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <svg viewBox="0 0 600 150" width="300" height="100" xmlns="http://www.w3.org/2000/svg">
     <text x="80" y="70" font-family="Arial, sans-serif" font-size="50" font-weight="bold" fill="#ff4d6d" font-style="italic">
       Hello! I'm Truong
@@ -13,7 +13,12 @@
       Still try to run!
     </text>
   </svg>
+</p> -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VTzy137/VTzy137/master/banner.svg" alt="ImTruong" />
 </p>
+
 
 <p align="center" style="margin-bottom: 0px; margin-top: -15px;" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VTzy137&theme=tokyonight"/>

@@ -1,0 +1,14 @@
+<svg viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="150" fill="#0f1319"/>
+  
+  <!-- Main text: "Hello! I'm Truong" -->
+  <text x="30" y="70" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ff4d6d" style="font-style: italic;">
+    Hello! I'm Truong
+  </text>
+  
+  <!-- Subtitle: "Still try to run!" -->
+  <text x="185" y="120" font-family="Arial, sans-serif" font-size="28" font-weight="normal" fill="#8a7bff" style="font-style: italic;">
+    Still try to run!
+  </text>
+</svg>
