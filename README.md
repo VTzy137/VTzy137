@@ -7,6 +7,10 @@
   <img src="https://raw.githubusercontent.com/VTzy137/VTzy137/master/banner.svg" alt="ImTruong" width="300" height="100"/>
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula" height="100" />
+</p> -->
+
 <p align="center" style="margin-bottom: 0px; margin-top: -15px;" >
   <img src="https://streak-stats.demolab.com?user=VTzy137&theme=tokyonight" alt="GitHub Streak" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=VTzy137&theme=tokyonight"/> -->
@@ -17,21 +21,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTzy137&theme=tokyonight&layout=compact" height="195" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula" height="200" />
-</p>
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
-    <h3>✨&nbsp; About Me</h3>
+    <h3>🚀 &nbsp; About Me</h3>
     <ul>
-      <li>🔭 &nbsp;Data, 📖 Bionic Agorithm, Web, <a href="https://leetcode.com/u/VTzy137">LeetCode</a></li>
-      <li>🏫 &nbsp;Computer science student at <a href="https://hust.edu.vn">HUST</a></li>
-      <li>💗 🏃 🎨</li>
+      <li>🌐 &nbsp;Check out my work at 
+        <a href="https://vtzy137.github.io" target="_blank">this</a>.
+      </li>
+      <li>
+        🎓 &nbsp;Computer Science <a href="https://hust.edu.vn" target="_blank">HUST</a>.&nbsp;&nbsp;
+        🎯 &nbsp;Solving problems on <a href="https://leetcode.com/u/VTzy137" target="_blank">LeetCode</a>
+      </li>
+      <li>
+        💗 &nbsp;Runner, Minimalist, Visual Thinker 
+        | 🏃 🎨 |
+        &nbsp;Passionate about Data, Web, and Bionic Algorithms 🧠
+      </li>
     </ul>
   </div>
   <!-- <img src="./terminal.gif" alt="Terminal GIF" height="120" /> -->
 </div>
+
+<blockquote align="right" style=" color: #495057; font-style: italic; ">
+  <strong>"Trees are the most inspiring structures."</strong>
+  <br>
+  — <em>J. Robert Oppenheimer</em>
+</blockquote>
 
 <br/>
 
@@ -64,6 +79,7 @@
     <a href="https://twitter.com/vtzy137" target="_blank">tweets</a> .
     <a href="https://bsky.app/profile/vtzy137.bsky.social" target="_blank">bluesky</a> .
     <a href="https://www.tumblr.com/vtzy137" target="_blank">tumblr</a> .
-    <a href="https://beacons.ai/vtzy137" target="_blank">beacons</a>
+    <a href="https://beacons.ai/vtzy137" target="_blank">beacons</a> .
+    <a href="https://vtzy137.github.io" target="_blank">about</a>
   </samp>
 </p>
