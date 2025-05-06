@@ -1,5 +1,4 @@
 
-
 <div align="right" style="margin-bottom: -35px;">
   <img src="https://komarev.com/ghpvc/?username=VTzy137&color=3e006b" alt="VTzy137" />
 </div>
@@ -8,9 +7,9 @@
   <img src="https://raw.githubusercontent.com/VTzy137/VTzy137/master/banner.svg" alt="ImTruong" width="300" height="100"/>
 </p>
 
-
 <p align="center" style="margin-bottom: 0px; margin-top: -15px;" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VTzy137&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=VTzy137&theme=tokyonight" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=VTzy137&theme=tokyonight"/> -->
 </p>
 
 <p align="center">
@@ -21,7 +20,6 @@
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula" height="200" />
 </p>
-
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
