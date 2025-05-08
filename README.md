@@ -17,6 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTzy137&theme=tokyonight&layout=compact" height="195" />
 </div>
 
+<!-- --- -->
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
     <h3>🚀 &nbsp; About Me</h3>
@@ -37,6 +39,7 @@
   </div>
   <!-- <img src="./terminal.gif" alt="Terminal GIF" height="120" /> -->
 </div>
+
 
 <div align="right">
   <blockquote align="right" style=" color: #495057; font-style: italic; ">
@@ -69,7 +72,7 @@
 
 </div>
 
----
+<img width="100%" src="./line.gif">
 
 <div align="right">
   <samp>
