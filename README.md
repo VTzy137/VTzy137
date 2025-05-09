@@ -1,6 +1,6 @@
 
 <div align="center" >
-  <img src="https://raw.githubusercontent.com/VTzy137/VTzy137/master/banner.svg" alt="ImTruong" width="300" height="100"/>
+  <img src="./banner.svg" alt="ImTruong" width="300" height="100"/>
 </div>
 
 <!-- <p align="center">
@@ -43,9 +43,9 @@
 
 <div align="right">
   <blockquote align="right" style=" color: #495057; font-style: italic; ">
-    <strong>"Trees are the most inspiring structures."</strong>
+    <strong>"Amid the haze, where am I"</strong>
     <br>
-    — <em>J. Robert Oppenheimer</em>
+    -<em>here</em>
   </blockquote>
 </div>
 
@@ -87,5 +87,5 @@
 
 <div align="right" >
   <!-- <img src="https://komarev.com/ghpvc/?username=VTzy137&color=3e006b" alt="VTzy137" /> -->
-  <img src="https://count.getloli.com/get/@VTzy137.github.readme" alt="counter" height="50"/>
+  <!-- <img src="https://count.getloli.com/get/@VTzy137.github.readme" alt="counter" height="50"/> -->
 </div>
