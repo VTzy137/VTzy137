@@ -1,20 +1,10 @@
 
 <div align="center" >
-  <img src="./banner.svg" alt="ImTruong" width="300" height="100"/>
-</div>
 
-<!-- <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula" height="100" />
-</p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=VTzy137&theme=tokyonight)](https://github.com/VTzy137)
 
-<div align="center" style="margin-bottom: 0px; margin-top: -15px;" >
-  <img src="https://streak-stats.demolab.com?user=VTzy137&theme=tokyonight" alt="GitHub Streak" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=VTzy137&theme=tokyonight"/> -->
-</div>
+![VTzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=VTzy137&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VTzy137&theme=tokyonight&show_icons=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTzy137&theme=tokyonight&layout=compact" height="195" />
 </div>
 
 <!-- --- -->
@@ -39,7 +29,6 @@
   </div>
   <!-- <img src="./terminal.gif" alt="Terminal GIF" height="120" /> -->
 </div>
-
 
 <div align="right">
   <blockquote align="right" style=" color: #495057; font-style: italic; ">
