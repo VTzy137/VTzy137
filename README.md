@@ -1,3 +1,15 @@
+<div>
+
+<style>
+* {
+  cursor: url("https://cdn.custom-cursor.com/db/8626/32/starter-glitch-cursor.png"), default;
+}
+
+a:hover,
+[role="button"]:hover {
+  cursor: url("https://cdn.custom-cursor.com/db/8625/32/starter-glitch-pointer.png"), pointer;
+}
+</style>
 
 <div align="center" >
 
@@ -5,11 +17,12 @@
 
 ![VTzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=VTzy137&show_icons=true&theme=radical)
 
+  <img src="./banner.svg" alt="Banner" />
+
 </div>
 
-<!-- --- -->
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
+
   <div style="flex: 1; text-align: left;">
     <h3>🚀 &nbsp; About Me</h3>
     <ul>
@@ -27,8 +40,11 @@
       </li>
     </ul>
   </div>
-  <!-- <img src="./terminal.gif" alt="Terminal GIF" height="120" /> -->
 </div>
+
+Now I'm working as a frontend developer, but interested in many fields and still exploring.<br/>
+I'm happy when thinking about beautiful interface curious about creating many useful tools, improving user experience.<br/>
+Also interested in powerful algorithms, optimizing, feel like it's a game, building something stronger, more adaptable.<br/>
 
 <div align="right">
   <blockquote align="right" style=" color: #495057; font-style: italic; ">
@@ -39,6 +55,8 @@
 </div>
 
 <br/>
+
+[![VTzy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VTzy137&theme=dracula)](https://github.com/VTzy137/github-readme-activity-graph)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+everything" alt="Typing SVG" />
@@ -75,6 +93,7 @@
 </div>
 
 <div align="right" >
-  <!-- <img src="https://komarev.com/ghpvc/?username=VTzy137&color=3e006b" alt="VTzy137" /> -->
-  <img src="https://count.getloli.com/get/@VTzy137.github.readme" alt="counter" height="50"/>
+  <!-- <img src="https://count.getloli.com/get/@VTzy137.github.readme" alt="counter" height="50"/> -->
+</div>
+
 </div>
