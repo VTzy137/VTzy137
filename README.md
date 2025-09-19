@@ -1,15 +1,4 @@
-<div>
-
-<style>
-* {
-  cursor: url("https://cdn.custom-cursor.com/db/8626/32/starter-glitch-cursor.png"), default;
-}
-
-a:hover,
-[role="button"]:hover {
-  cursor: url("https://cdn.custom-cursor.com/db/8625/32/starter-glitch-pointer.png"), pointer;
-}
-</style>
+<div style="cursor: url('https://cdn.custom-cursor.com/db/8626/32/starter-glitch-cursor.png'), default;">
 
 <div align="center" >
 
@@ -93,7 +82,7 @@ Also interested in powerful algorithms, optimizing, feel like it's a game, build
 </div>
 
 <div align="right" >
-  <!-- <img src="https://count.getloli.com/get/@VTzy137.github.readme" alt="counter" height="50"/> -->
+  <img src="https://count.getloli.com/get/@VTzy137.github.readme" alt="counter" height="50"/>
 </div>
 
 </div>
